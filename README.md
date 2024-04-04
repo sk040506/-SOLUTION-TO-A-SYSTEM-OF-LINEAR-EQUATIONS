@@ -21,7 +21,8 @@ le=np.linalg.solve(A,B)
 print('The solution for the given matrix is',le)
 
 ## Output:
-![image](https://github.com/Chithradheep/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155504933/325e5005-f122-44ec-8f4c-459c81e87465)
+![image](https://github.com/Chithradheep/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155504933/4de86c97-804a-46a0-bd67-6849f5f5a354)
+
 
 
 
